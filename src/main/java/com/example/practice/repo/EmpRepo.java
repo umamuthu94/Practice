@@ -1,6 +1,7 @@
 package com.example.practice.repo;
 
 import org.springframework.data.jpa.repository.JpaRepository;
+import java.util.List;
 
 import com.example.practice.model.Employee;
 
