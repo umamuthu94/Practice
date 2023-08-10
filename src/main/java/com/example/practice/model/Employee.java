@@ -11,4 +11,5 @@ public class Employee {
     
     private Integer id;//we add this for creating a new branch2
     private String name;//branch2
+    private String address;// branch4
 }
